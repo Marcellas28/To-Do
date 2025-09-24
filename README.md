@@ -61,11 +61,6 @@ User Experience : Added smooth animations, loading states, and clear visual feed
 - Shows error messages for invalid input
 - Limits task length to 200 characters
 
-## LocalStorage Persistence
-- Automatically saves tasks to browser storage
-- Restores tasks when you reload the page
-- Handles JSON parsing errors gracefully
-
 ## Responsive Design
 - Mobile-first approach
 - Adapts to different screen sizes

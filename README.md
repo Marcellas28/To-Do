@@ -78,6 +78,11 @@ Works in all modern browsers including:
 - Brave 
 - Edge
 
+  **Built with React, JavaScript, and CSS**
+
+# # # Design Decisions
+I made small components that each do one job. Kept all data in the main App component. Used strikethrough and colors to mark done tasks.
+
   ##  Installation & Setup
 
 ### Prerequisites
@@ -99,7 +104,5 @@ npm install
 # Start the development server
 npm start
 ---
-**Built with React, JavaScript, and CSS**
 
-# # # Design Decisions
-I made small components that each do one job. Kept all data in the main App component. Used strikethrough and colors to mark done tasks.
+

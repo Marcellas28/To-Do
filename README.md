@@ -77,6 +77,27 @@ Works in all modern browsers including:
 - Chrome 
 - Brave 
 - Edge
+
+  ##  Installation & Setup
+
+### Prerequisites
+- Node.js 
+- npm or yarn
+
+### Steps to Run Locally
+To run this project on your computer:
+
+1. **Download the files** from this repository 
+2. **Extract the files** to a folder on your PC
+3. **Open Command Prompt** (CMD) in that folder
+4. **Run these commands** in order:
+
+```bash
+# Install required packages
+npm install
+
+# Start the development server
+npm start
 ---
 **Built with React, JavaScript, and CSS**
 
